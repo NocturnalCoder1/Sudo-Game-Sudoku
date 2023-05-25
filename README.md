@@ -9,7 +9,6 @@ Sudo-Game: Logical and Problem-solving Game Application
 
 # B: Baseline
 ◉ Java
-
 ◉ Netbeans
 
 # C: Creative Solution
