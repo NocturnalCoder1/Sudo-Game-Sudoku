@@ -1,5 +1,26 @@
 # Sudo-Game
-Sudoku is a popular puzzle game that challenges your logical thinking and problem-solving skills. The game is played on a 9x9 grid, divided into nine 3x3 boxes. 
-The objective is to fill in the empty squares with numbers from 1 to 9, ensuring that each row, column, and box contains all the numbers without repetition. 
-The puzzle starts with some given numbers as clues, and you must use deduction and elimination to figure out the correct numbers to fill in. 
-Sudoku is a game of patience, strategy, and critical thinking, providing an enjoyable and satisfying mental exercise for players of all ages.
+This is my Project for the term requirement of CpE9: Software Design using the ABCD method. Sudo-Game is a simple sudoku game that challenges your logical thinking and problem-solving skills.
+
+# Category
+◉ Game Software
+
+# A: Awareness
+Sudo-Game: Logical and Problem-solving Game Application
+
+# B: Baseline
+◉ Java
+◉ Netbeans
+
+# C: Creative Solution
+◉ Customizable Difficulty
+◉ Highlighting Mistakes
+◉ Auto Solver System
+◉ Validation
+
+# D: Documentation (In order)
+◉ Researching
+◉ Data Gathering
+◉ Exploration
+◉ Learning the Game
+◉ Planning Design
+◉ Developing Game
